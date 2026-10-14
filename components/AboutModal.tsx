@@ -23,7 +23,7 @@ export const AboutModal: React.FC<AboutModalProps> = ({ isOpen, onClose }) => {
 
         <div className="flex items-center gap-2 mb-4 text-xs font-sans tracking-widest uppercase text-stone-500 dark:text-stone-400">
           <Feather className="w-3.5 h-3.5" />
-          <span>About Chronicle</span>
+          <span>About EveryGyan</span>
         </div>
 
         <h3 className="text-2xl font-serif font-bold text-stone-900 dark:text-stone-100 mb-3 [text-wrap:balance]">
@@ -32,7 +32,7 @@ export const AboutModal: React.FC<AboutModalProps> = ({ isOpen, onClose }) => {
 
         <div className="space-y-4 text-stone-600 dark:text-stone-300 font-serif text-sm leading-relaxed">
           <p>
-            Chronicle was founded in 2026 as an architectural antidote to algorithmic feeds and attention-extracting media. It is written and maintained by Julian Vance, an architect and software designer based between Kyoto and Zurich.
+            EveryGyan was founded in 2026 as an architectural antidote to algorithmic feeds and attention-extracting media. It is written and maintained by Julian Vance, an architect and software designer based between Kyoto and Zurich.
           </p>
 
           <p>

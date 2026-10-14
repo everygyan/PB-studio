@@ -28,7 +28,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenAbout, onNavigateCategory 
           {/* Brand & Manifesto */}
           <div className="md:col-span-5 space-y-3">
             <span className="text-lg font-serif font-bold text-stone-900 dark:text-stone-100">
-              Chronicle
+              EveryGyan
             </span>
             <p className="text-xs text-stone-600 dark:text-stone-400 font-serif leading-relaxed max-w-sm">
               An independent journal of essays examining physical architecture, digital systems, typography, and unhurried human attention. Published in deliberate quarterly sequences.
@@ -115,7 +115,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenAbout, onNavigateCategory 
 
         {/* Quiet copyright bar */}
         <div className="pt-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-stone-400 dark:text-stone-500">
-          <p>© {new Date().getFullYear()} Chronicle. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} EveryGyan. All rights reserved.</p>
           <div className="flex items-center gap-6">
             <button onClick={onOpenAbout} className="hover:text-stone-700 dark:hover:text-stone-300">
               Colophon & Ethos

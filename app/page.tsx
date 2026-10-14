@@ -158,7 +158,7 @@ export default function HomePage() {
             <section className="mb-12 pb-8 border-b border-stone-200/90 dark:border-stone-800">
               <div className="max-w-3xl">
                 <span className="text-xs uppercase tracking-widest font-sans font-medium text-stone-500 dark:text-stone-400 mb-3 block">
-                  A Personal Publication · Vol. VII
+                  EveryGyan · A Personal Publication · Vol. VII
                 </span>
                 <h1 className="text-4xl sm:text-5xl font-serif font-bold tracking-tight text-stone-950 dark:text-stone-50 mb-4 [text-wrap:balance]">
                   Reflections on Design, Attention & Quiet Software

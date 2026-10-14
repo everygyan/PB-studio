@@ -21,18 +21,18 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Chronicle - Minimalist Personal Journal & Essays',
+  title: 'EveryGyan - Minimalist Personal Journal & Essays',
   description:
     'A refined, minimalist personal blog and essay publication featuring thoughtful long-form writing, typography-first reading experience, and an integrated threaded comment system.',
   openGraph: {
-    title: 'Chronicle - Minimalist Personal Journal & Essays',
+    title: 'EveryGyan - Minimalist Personal Journal & Essays',
     description:
       'A refined, minimalist personal blog and essay publication featuring thoughtful long-form writing, typography-first reading experience, and an integrated threaded comment system.',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Chronicle - Minimalist Personal Journal & Essays',
+    title: 'EveryGyan - Minimalist Personal Journal & Essays',
     description:
       'A refined, minimalist personal blog and essay publication featuring thoughtful long-form writing, typography-first reading experience, and an integrated threaded comment system.',
   },

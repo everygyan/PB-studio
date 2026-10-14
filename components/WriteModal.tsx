@@ -227,7 +227,7 @@ export const WriteModal: React.FC<WriteModalProps> = ({
               className="inline-flex items-center gap-1.5 px-4 py-2 text-xs font-medium text-white dark:text-stone-900 bg-stone-900 dark:bg-stone-100 rounded-lg hover:bg-stone-800 dark:hover:bg-stone-200 transition-colors disabled:opacity-40 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-stone-400"
             >
               <Check className="w-3.5 h-3.5" />
-              <span>Publish to Journal</span>
+              <span>Publish to EveryGyan</span>
             </button>
           </div>
         </form>

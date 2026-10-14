@@ -158,7 +158,7 @@ export const EditorialCover: React.FC<EditorialCoverProps> = ({
       {/* Minimal caption text in bottom corner */}
       {(category || title) && (
         <div className="absolute bottom-3 left-4 right-4 flex items-center justify-between text-[11px] font-sans tracking-widest uppercase text-stone-600 dark:text-stone-400 pointer-events-none">
-          <span className="truncate max-w-[70%]">{category || 'Chronicle Essay'}</span>
+          <span className="truncate max-w-[70%]">{category || 'EveryGyan Essay'}</span>
           <span className="tabular-nums font-mono opacity-70">FIG. 01</span>
         </div>
       )}

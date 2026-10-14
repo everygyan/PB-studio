@@ -32,7 +32,7 @@ export const Header: React.FC<HeaderProps> = ({
           onClick={() => onNavigate('home')}
           className="text-xl font-serif font-bold tracking-tight text-stone-900 dark:text-stone-100 hover:opacity-80 transition-opacity whitespace-nowrap shrink-0 text-left focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-stone-400 rounded-sm"
         >
-          Chronicle
+          EveryGyan
         </button>
 
         {/* Zone 2: 4–5 single-line nav links */}

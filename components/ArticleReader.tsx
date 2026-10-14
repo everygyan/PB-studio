@@ -301,7 +301,7 @@ export const ArticleReader: React.FC<ArticleReaderProps> = ({
               About {article.author.name}
             </h4>
             <p className="text-xs text-stone-600 dark:text-stone-400 leading-relaxed">
-              Writer, architect, and software designer exploring the tension between digital noise and spatial stillness. Chronicle is published in small, deliberate editions.
+              Writer, architect, and software designer exploring the tension between digital noise and spatial stillness. EveryGyan is published in small, deliberate editions.
             </p>
           </div>
         </div>
